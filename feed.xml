@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<meta name="title" content="Privacy Policy">
+<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="description" content=""Optimize OS performance with SoftGlide Process Management Internet, streamlining process management for efficiency and speed.""Explore scheduling algorithms in operating systems: key techniques for task management and efficiency, ensuring optimal CPU performance and system responsiveness.""Learn about Interprocess Communication (IPC) in Operating Systems: methods, mechanisms, and importance for efficient process coordination and data exchange."Process Synchronization in Operating Systems ensures orderly execution and resource sharing among concurrent processes, preventing conflicts and ensuring data consistency."Learn ultra-efficient strategies for Deadlock Handling in Operating Systems to ensure seamless and conflict-free process management.""Context Switching in OS: Efficiently manages CPU tasks by saving and loading states, enabling multitasking and optimizing system performance."Efficient Memory Management in OS optimizes resource allocation, enhances performance, and ensures smooth multitasking by managing RAM and virtual memory."Virtual Memory in Operating Systems: Efficiently manages and extends physical memory using disk space, enhancing multitasking and system performance."Efficient memory management in operating systems using paging and segmentation techniques to optimize performance and resource allocation.Explore various memory allocation techniques in operating systems, including paging, segmentation, and dynamic allocation for efficient resource management.Efficient cache management in operating systems optimizes data access speed, reduces latency, and improves overall system performance by effectively handling frequently used data."Swapping in OS: A memory management technique where processes are moved between RAM and disk to optimize performance and manage limited physical memory.""Explore File Systems in Operating Systems: manage, store, and organize data efficiently with various structures and access methods."Efficient file organization in operating systems ensures easy access, management, and storage of data, boosting system performance and user productivity."Learn about Directory Structures in Operating Systems: how files are organized, accessed, and managed for efficient data storage and retrieval."Explore File Access Methods in Operating Systems: Sequential, Direct, and Indexed access techniques for efficient data retrieval and storage management.Optimize disk access with efficient Disk Scheduling algorithms in Operating Systems, balancing performance and resource management for seamless data retrieval."Ensure data integrity and privacy with File System Security in Operating Systems. Protect files from unauthorized access, corruption, and cyber threats."Efficiently manage and control devices within operating systems, ensuring seamless integration, performance tracking, and security for optimal functionality.Discover how operating systems manage IO devices and interfaces, enabling seamless communication between hardware components and software applications."Device drivers are essential software components in operating systems, enabling communication between hardware devices and the OS for seamless functionality."Efficient interrupt handling in operating systems ensures swift response to hardware signals, optimizing task management and system performance."Direct Memory Access (DMA) in operating systems allows peripherals to transfer data directly to memory, bypassing the CPU for faster processing and efficiency.""Learn how buffering and caching optimize data flow and performance in operating systems, enhancing efficiency and speed for seamless computing experiences."Discover the key features of operating systems, enhancing performance, security, and user experience. Stay updated with the latest OS advancements!"Enhance your OS with top-notch security and protection measures, ensuring safe data, secure access, and robust defense against cyber threats."Secure your OS with diverse authentication mechanisms, ensuring user identity verification through passwords, biometrics, tokens, and multi-factor methods.Explore various authorization techniques in operating systems to manage user access, ensure security, and protect sensitive data effectively.Secure your data with EncryptionDecryption in Operating Systems: protect, encode, and decode sensitive information seamlessly."Ensure your operating system's security with robust malware protection. Safeguard against threats and keep your data safe with advanced defense mechanisms.""Understand Auditing and Logging in Operating Systems: Track, analyze, and secure system activities effectively to ensure compliance and enhance security posture."">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://software.netlify.app/privacy-policy.html">
+<link rel="shortcut icon"  href="img/logo-512--512px888cef.png"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+.btn-md{
+padding: 15.2px 30.4px;
+border-radius: 0;
+}
+.z1b5e95741f3f2348f7cbdbb28f80636a{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+.x495f31ecd1e171469d50b9968b222561 p,.x495f31ecd1e171469d50b9968b222561 span,.x495f31ecd1e171469d50b9968b222561 label{
+font-size:16px!important;
+}
+.nav-link{
+color: #8c4646!important;
+
+}
+footer *{
+font-size:16px !important;
+}
+.x495f31ecd1e171469d50b9968b222561 a{
+font-size:16px;
+}
+.a31f1c017ae863d5c1c16f0f5c66f8c54:hover{
+box-shadow: 0 49.5px 50.1px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.nav-item{
+padding-left:8.1px;
+padding-right:7.6px;
+padding-top:5.2px;
+padding-bottom:5.3px;
+}
+.navbar a{
+font-size: 17.6px!important;
+font-weight: bold;
+}
+a{
+text-decoration: none!important;
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+ul{
+list-style: circle;
+}
+.c6a82766f0eb61e45fc87bda68aee61dc p,.c6a82766f0eb61e45fc87bda68aee61dc a,.c6a82766f0eb61e45fc87bda68aee61dc span,.c6a82766f0eb61e45fc87bda68aee61dc label{
+font-size:16px!important;
+}
+.c6a82766f0eb61e45fc87bda68aee61dc a,.x495f31ecd1e171469d50b9968b222561 a{
+color:#141414!important;
+text-decoration: underline !important;
+}
+html{
+scroll-behavior: smooth;
+}
+footer{
+background:#131313;
+color:#ffffff;
+}
+</style>
+</head>
+<body>
+<nav class="navbar-expand-lg navbar">
+<a class="navbar-brand" href="https://software.netlify.app/index.html"  ><img alt="img/logo-512--512px888cef.png" src="img/logo-512--512px888cef.png"  width="150px" ></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="navbar-nav d-flex ml-auto align-items-center"><li class="nav-item"><a class="d106020b840944a4ef8b89aebc8d29edc nav-link" href="https://software.netlify.app/news.html"  >News</a></li>
+  
+<li class=" nav-item dropdown">
+<a class="nav-link d106020b840944a4ef8b89aebc8d29edc dropdown-toggle" href="https://software.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">SoftGlide Process Management Internet</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://software.netlify.app/index.html"  >SoftGlide Process Management Internet</a>
+<a class="dropdown-item" href="https://software.netlify.app/scheduling-algorithms.html"  >Scheduling Algorithms</a>
+<a class="dropdown-item" href="https://software.netlify.app/interprocess-communication-ipc.html"  >Interprocess Communication IPC</a>
+<a class="dropdown-item" href="https://software.netlify.app/process-synchronization.html"  >Process Synchronization</a>
+<a class="dropdown-item" href="https://software.netlify.app/deadlock-handling.html"  >Deadlock Handling</a>
+<a class="dropdown-item" href="https://software.netlify.app/context-switching.html"  >Context Switching</a>
+  
+<li class="nav-item dropdown ">
+<a class="nav-link d106020b840944a4ef8b89aebc8d29edc dropdown-toggle" href="https://software.netlify.app/memory-management.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Memory Management</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://software.netlify.app/memory-management.html"  >Memory Management</a>
+<a class="dropdown-item" href="https://software.netlify.app/virtual-memory.html"  >Virtual Memory</a>
+<a class="dropdown-item" href="https://software.netlify.app/paging-and-segmentation.html"  >Paging and Segmentation</a>
+<a class="dropdown-item" href="https://software.netlify.app/memory-allocation-techniques.html"  >Memory Allocation Techniques</a>
+<a class="dropdown-item" href="https://software.netlify.app/cache-management.html"  >Cache Management</a>
+<a class="dropdown-item" href="https://software.netlify.app/swapping.html"  >Swapping</a>
+  
+<li class=" nav-item dropdown">
+<a class="dropdown-toggle d106020b840944a4ef8b89aebc8d29edc nav-link" href="https://software.netlify.app/file-systems.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">File Systems</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://software.netlify.app/file-systems.html"  >File Systems</a>
+<a class="dropdown-item" href="https://software.netlify.app/file-organization.html"  >File Organization</a>
+<a class="dropdown-item" href="https://software.netlify.app/directory-structures.html"  >Directory Structures</a>
+<a class="dropdown-item" href="https://software.netlify.app/file-access-methods.html"  >File Access Methods</a>
+<a class="dropdown-item" href="https://software.netlify.app/disk-scheduling.html"  >Disk Scheduling</a>
+<a class="dropdown-item" href="https://software.netlify.app/file-system-security.html"  >File System Security</a>
+  
+<li class=" nav-item dropdown">
+<a class="dropdown-toggle nav-link d106020b840944a4ef8b89aebc8d29edc" href="https://software.netlify.app/device-management.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Device Management</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://software.netlify.app/device-management.html"  >Device Management</a>
+<a class="dropdown-item" href="https://software.netlify.app/io-devices-and-interfaces.html"  >IO Devices and Interfaces</a>
+<a class="dropdown-item" href="https://software.netlify.app/device-drivers.html"  >Device Drivers</a>
+<a class="dropdown-item" href="https://software.netlify.app/interrupt-handling.html"  >Interrupt Handling</a>
+<a class="dropdown-item" href="https://software.netlify.app/direct-memory-access-dma.html"  >Direct Memory Access DMA</a>
+<a class="dropdown-item" href="https://software.netlify.app/buffering-and-caching.html"  >Buffering and Caching</a>
+  
+<li class="dropdown nav-item ">
+<a class="dropdown-toggle d106020b840944a4ef8b89aebc8d29edc nav-link" href="https://software.netlify.app/featured.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Featured</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://software.netlify.app/featured.html"  >Featured</a>
+<a class="dropdown-item" href="https://software.netlify.app/security-and-protection.html"  >Security and Protection</a>
+<a class="dropdown-item" href="https://software.netlify.app/authentication-mechanisms.html"  >Authentication Mechanisms</a>
+<a class="dropdown-item" href="https://software.netlify.app/authorization-techniques.html"  >Authorization Techniques</a>
+<a class="dropdown-item" href="https://software.netlify.app/encryptiondecryption.html"  >EncryptionDecryption</a>
+<a class="dropdown-item" href="https://software.netlify.app/malware-protection.html"  >Malware Protection</a>
+<a class="dropdown-item" href="https://software.netlify.app/auditing-and-logging.html"  >Auditing and Logging</a>
+<li class="nav-item"><a class="d106020b840944a4ef8b89aebc8d29edc nav-link" rel=nofollow href="https://software.netlify.app/about-us.html">About Us</a>
+</li></ul>
+</div>
+</nav>
+<section class="container" style="min-height: 80vh;">
+<h1>Privacy Policy for SoftGlide</h1>
+<p>At SoftGlide one of our main priorities is the privacy of our visitors.
+ This Privacy Policy document contains types of information that is collected and recorded by SoftGlide and how we use it. You can check out our main website here: </p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in SoftGlide. This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<h2>Consent</h2>
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+<h2>Information we collect</h2>
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, SoftGlide, address, email address, and telephone number.</p>
+<h2>How we use your information</h2>
+<p>We use the information we collect in various ways, including to:</p>
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
+<h2>Log Files</h2>
+<p>SoftGlide follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<h2>Advertising Partners Privacy Policies</h2>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of SoftGlide.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on SoftGlide, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that SoftGlide has no access to or control over these cookies that are used by third-party advertisers.</p>
+<h2>Third Party Privacy Policies</h2>
+<p>SoftGlide's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>GDPR Data Protection Rights</h2>
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>Children's Information</h2>
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+<p>SoftGlide does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<h2>Publisher</h2>
+<p>
+This website is owned and published by:
+SoftGlide</br>
+031-950-3377</br>
+9024  Oakwood Drive</br>
+Jersey City, NJ, 07302</br>
+USA</br>
+</br>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4e0f382b3c37032722222b3c08272223767e0e232f2722602d2123">[email&#160;protected]</a></br>
+</p>
+</section>
+<footer>
+<div class="py-4 pt-5 container" >
+<div class="row"><div class="col-lg-3"><p><a class="d106020b840944a4ef8b89aebc8d29edc" href="https://software.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="d106020b840944a4ef8b89aebc8d29edc" href="https://software.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="d106020b840944a4ef8b89aebc8d29edc" href="https://software.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<p><p>The content provided on this blog is for informational purposes only and is not intended as medical advice, diagnosis, or treatment. The information presented here is not meant to substitute professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this blog.</p>
+
+<p>The authors and administrators of this blog are not healthcare professionals, and viewing this content does not create a doctor-patient relationship. We do not guarantee the accuracy, completeness, relevance, or timeliness of any information on this site and are not responsible for any errors or omissions in this information nor for the availability of this information.</p></p>
+</p>
+</div></div>
+</div>
+</footer> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script> 
+</body>
+</html>
